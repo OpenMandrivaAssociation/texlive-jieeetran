@@ -1,6 +1,6 @@
 Name:		texlive-jieeetran
 Version:	62958
-Release:	1
+Release:	2
 Summary:	UnofficiaL BibTeX style for citing Japanese articles in IEEE format
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jieeetran
