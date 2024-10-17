@@ -3,7 +3,7 @@ Version:	65642
 Release:	1
 Summary:	UnofficiaL BibTeX style for citing Japanese articles in IEEE format
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/jieeetran
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/jieeetran
 License:	mit
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jieeetran.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/jieeetran.doc.r%{version}.tar.xz
